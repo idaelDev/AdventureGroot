@@ -1,0 +1,28 @@
+Todo List
+
+Debut de niveau
+	- Fade in
+
+Fin de niveau
+	- Condition de victoire
+	- Fade Out
+	- Changement de musique
+
+Arrow
+	- Son de sifflement
+	- Effet de particule
+
+Menu principal
+	- Selection de niveau
+	- ecran de chargement
+
+Niveau
+	- Tentacule
+		- Apparition
+		- Disparition
+		- animation
+	- Piques
+
+Groot
+	- Sprite ?
+	- Mort
